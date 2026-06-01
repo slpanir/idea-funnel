@@ -56,7 +56,23 @@ requires it.
 
 ## Installation
 
-Clone this repository into your global skills directory:
+Recommended installation through the skills CLI:
+
+```bash
+npx skills add slpanir/idea-funnel -g --skill idea-funnel
+```
+
+The same source can also be written as a GitHub URL:
+
+```bash
+npx skills add https://github.com/slpanir/idea-funnel -g --skill idea-funnel
+```
+
+The `-g` flag installs the skill globally. Omit it if you intentionally want a
+project-local installation.
+
+Manual installation is also possible by cloning this repository into your global
+skills directory:
 
 ```bash
 git clone git@github.com:slpanir/idea-funnel.git ~/.agents/skills/idea-funnel
