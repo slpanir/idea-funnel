@@ -29,6 +29,12 @@ Use this as the default thinking pattern when the user wants a persuasive resear
 
 The funnel must be earned from the evidence. If the grouping does not naturally imply the opening, revise the framing instead of forcing the narrative.
 
+## Method Hook
+
+For each candidate, check whether it has a small method hook beyond engineering assembly: a formal lens, objective, decomposition, decision rule, uncertainty model, criterion, or reusable principle adapted from prior work.
+
+Prefer a natural hook when it clarifies the gap, but keep it small and evidence-tied. If none fits, say so; do not invent theory to make the idea look deeper.
+
 ## Workflow
 
 1. Clarify the starting point.
@@ -41,7 +47,7 @@ The funnel must be earned from the evidence. If the grouping does not naturally 
    Use the evidence snapshot, and the Motivation Funnel when applicable, to identify a concrete unresolved problem, weak assumption, missing condition, measurement flaw, implementation barrier, under-tested setting, or frontier-method limitation. Reject gaps that are only invented to justify novelty. Explain why the gap matters if it is real.
 
 4. Generate candidate ideas.
-   Propose 2-4 candidates. For each, give: one-sentence idea, target problem, difference from prior work, why it might matter, key uncertainty, and minimal validation.
+   Propose 2-4 candidates. For each, give: one-sentence idea, target problem, difference from prior work, method hook if any, why it might matter, key uncertainty, and minimal validation.
 
 5. Decide the next action.
    Recommend one path and define a Go / Weak / No-Go decision frame:

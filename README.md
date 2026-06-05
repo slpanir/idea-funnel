@@ -23,6 +23,7 @@ decision-oriented:
 - verify important facts instead of inventing prior work;
 - distinguish "possible to do" from "worth doing";
 - treat negative evidence as a reason to revise or pivot;
+- look for a small method hook beyond engineering assembly when forming ideas;
 - run small falsifiable checks before scaling engineering or writing;
 - keep optional additions separate from claim-critical work.
 
